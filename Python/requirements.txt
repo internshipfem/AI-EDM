@@ -1,0 +1,4 @@
+cmake==3.27.7
+numpy==1.21.6
+opencv-python==4.8.1.78
+pyserial==3.5
